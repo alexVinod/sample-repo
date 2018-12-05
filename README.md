@@ -1,2 +1,2 @@
-# sample-repo
+# Sample Repo
 Documentation purpose
