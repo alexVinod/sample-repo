@@ -1,0 +1,6 @@
+Sample_repo Documentaions
+-------------------------------
+1. Accounts Created
+2. Activated @ mail for git
+3. new Repo Created + checked to Initialize the ReadMe.md
+4. Created new file [documentation.txt] in docsFolder 
